@@ -1,5 +1,4 @@
 ## Instagram-Layout
 
-Instagram Layout - about Canada 
+https://alessag.github.io/Instagram-Layout/
 
-https://github.com/Alessag/Instagram-Layout.git
